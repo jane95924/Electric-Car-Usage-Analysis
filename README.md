@@ -11,9 +11,11 @@
 https://github.com/jane95924/janeweek4.github
 
 navigate to the project directory 
+
 cd pandas
 
 open atom 
+
 atom .}
 ## Known Bugs
 {no known bugs for now. }
